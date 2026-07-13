@@ -28,7 +28,7 @@ async def main():
     daftar_url = [
         "https://topsitus.com/rtp-kingtoto",
         "https://topsitus.com/prediksi-s88",
-        "https://topsitus.com/result-s88"
+        "https://topsitus.com/result-s88",
         "https://topsitus.com/rtp-suhutoto88",
         "https://topsitus.com/luckyspin-suhutoto88"
     ]
